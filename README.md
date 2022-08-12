@@ -1,4 +1,4 @@
 - Hi, I’m André Acebal (@andreace3001)
 - I’m interested in full stack development, automation testing, and mobile development. 
 - I’m currently a 5th year student at the Unveristy of Cincinnati studying information technology with a focus in software development.
-- How to reach me: acebalao@mail.uc.edu
+- Feel free to reach out to me at: acebalao@mail.uc.edu
